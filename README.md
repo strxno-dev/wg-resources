@@ -24,6 +24,6 @@
 
 ## Survival Friendly Trees
 - [Paleozoey's Planet Minecraft Profile](https://www.planetminecraft.com/member/paleozoey/) - Multiple survival-friendly tree schematic packs.
-- [Mint_101's Planet Minecraft Profile]([https://www.planetminecraft.com/project/custom-tree-repository-decayable-edition/](https://www.planetminecraft.com/member/mint_101/)) - Multiple survival-friendly trees schematic packs, including decayable versions of exisiting popular packs.
+- [Mint_101's Planet Minecraft Profile](https://www.planetminecraft.com/member/mint_101/) - Multiple survival-friendly trees schematic packs, including decayable versions of exisiting popular packs.
 - [sijmenvb's Worldpainter Trees](https://github.com/sijmenvb/worldpainter-trees) - Collection of survival-friendly tree schematics.
 - [VanillaTrees](https://github.com/almic/VanillaTrees) - Includes over 700 vanilla NBT objects.
