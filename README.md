@@ -27,3 +27,10 @@
 - [Mint_101's Planet Minecraft Profile](https://www.planetminecraft.com/member/mint_101/) - Multiple survival-friendly trees schematic packs, including decayable versions of exisiting popular packs.
 - [sijmenvb's Worldpainter Trees](https://github.com/sijmenvb/worldpainter-trees) - Collection of survival-friendly tree schematics.
 - [VanillaTrees](https://github.com/almic/VanillaTrees) - Includes over 700 vanilla NBT objects.
+
+---
+
+## Recommended to Avoid / Not Use:
+- Perlin Noise - ([OpenSimplex2](https://github.com/KdotJPG/OpenSimplex2) is a much better alternative!)
+- Closed Source / Paid Customizable Generators - I won't name any here, but these tend to pop up on SpigotMC every couple years and are generally slow, buggy, sometimes have stolen or "borrowed" code from other projects (which generally won't mesh well), and are otherwise just not good pieces of software. You are much better off using [Terra](https://github.com/PolyhedralDev/Terra), or even just creating a datapack from scratch using some resources from above.
+
