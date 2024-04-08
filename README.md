@@ -14,6 +14,7 @@
 - [Terra](https://github.com/PolyhedralDev/Terra) - Fully customizable world generation platform.
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) - Useful for creating schematics.
 - [Atlas](https://modrinth.com/mod/atlas) - Image based world generation mod.
+- [Chunky](https://github.com/pop4959/Chunky) - Pre-generate newly-made worlds.
 
 ## APIs and Libraries
 - [Architectury](https://github.com/architectury/architectury-api) - Simplifies multi-mod-loader developement.
